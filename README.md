@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0268-missing-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
