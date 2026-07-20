@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0268-missing-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
