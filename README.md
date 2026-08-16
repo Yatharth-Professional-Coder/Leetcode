@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0053-maximum-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0344-reverse-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
