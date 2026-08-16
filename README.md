@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0268-missing-number) |
+| [0881-boats-to-save-people](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0392-is-subsequence) |
+| [0881-boats-to-save-people](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
