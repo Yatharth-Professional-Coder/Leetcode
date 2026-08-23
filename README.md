@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0268-missing-number) |
+| [1925-count-square-sum-triples](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0881-boats-to-save-people) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
