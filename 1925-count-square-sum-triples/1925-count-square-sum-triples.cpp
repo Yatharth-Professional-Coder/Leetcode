@@ -1,20 +1,17 @@
 class Solution {
+
 public:
+
     int countTriples(int n) {
-        vector<int>square;
-        for (int i = 1; i <= n; i++) {
-            square.push_back(i * i);
-        }
-        int count = 0;
-        for (int a = 0; a < n; a++) {
-            for (int b = 0; b < n; b++) {
-                int sum = square[a] + square[b];
-                int c = sqrt(sum);
-                if (c <= n && c * c == sum) {
-                    count++;
-                }
+
+        int cnt = 0;
+
+        for(int a = 1; a < n; a++){
+            for(int b = a + 1; b < n; b++){
+                double c = sqrt(a*a + b*b);
+                if(c <= n && c == (int)c) cnt += 2;
             }
         }
-        return count;
+        return cnt;
     }
 };
