@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0002-add-two-numbers) |
+| [0707-design-linked-list](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/1925-count-square-sum-triples) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Yatharth-Professional-Coder/Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
